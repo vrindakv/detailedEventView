@@ -49,6 +49,31 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2",
+      "title": "Event Title 2",
+      "start_date": "02/23/2020",
+      "end_date": "02/24/2020",
+      "review_start": "02/23/2020",
+      "review_end": "02/27/2020",
+      "description": "Event description appears here.A radio group is used with its fields visually hidden.",
+      "isSubcategory": false,
+      "subcategory": [],
+      "cat_reviewers": [
+        {
+          "id": 11,
+          "content": "Aiswarya"
+        },
+        {
+          "id": 12,
+          "content": "Amitha"
+        },
+        {
+          "id": 13,
+          "content": "Vrinda"
+        }
+      ],
     }
   ],
   "profile": {
