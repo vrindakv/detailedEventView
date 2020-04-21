@@ -7,6 +7,9 @@
       "end_date": "12/02/2020",
       "review_start": "02/23/2020",
       "review_end": "02/27/2020",
+      "Feasibility": "70%",
+      "ideaRelevance": "60%",
+      "Novelty": "80%",
       "description": "Event description appears here.A radio group is used with its fields visually hidden. It contains s ix radio buttons, one for each star and anotherfor 0 stars, which is checked by default. Make sure you are providing a name prop that is unique to the parent formThe labels for the radio buttons contain actual text (“1 Star”, “2 Stars”, …), make sure you provide a getLabelText prop when the page language is not English.Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes, along with exposition, argumentation, and narration. In practice it would be difficult to write literature that drew on just one of the four basic modes",
       "isSubcategory": true,
       "subcategory": [
@@ -57,6 +60,9 @@
       "end_date": "11/02/2020",
       "review_start": "02/23/2020",
       "review_end": "02/27/2020",
+      "Feasibility": "70%",
+      "ideaRelevance": "80%",
+      "Novelty": "90%",
       "description": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes, along with exposition, argumentation, and narration. In practice it would be difficult to write literature that drew on just one of the four basic modes",
       "cat_reviewers": [
         {
